@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CDF</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="feedbacktitle">Feedback</string>
+
+    <!--Other string resources also defined in this file… -->
+    <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Gripe</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Bug</string>
+    <string name="title_activity_check">Check Basary Disbursements</string>
+    <string name="title_activity_contact">Contact CDF Office</string>
+    <string name="welcome_message">ONLINE UNIVERSITY BURSARY MANAGEMENT SYSTEM CASE STUDY OF MOMBASA COUNTY (KENYA)</string>
+    <string name="welcome_body">The project proposal was centered towards the development of an online bursary management system. The existing system is based on traditional system where; there is a lot of paper work, long queuing time and physical location dependency. The proposed online bursary system will lessen the process of students applying and being granted bursaries. To access the proposed bursary system the user requires internet connection and a web browser. On viewing the page new students (users) can register and apply for bursaries then submit the application form to be approved by the admin on the backend. The admin is a more sophisticated user who can make major changes in the system. The admin can approve, deny, grant, remove, view students. To develop such a system waterfall methodology is best suited (appropriate). Ladies and gentlemen welcome on board.</string>
+    <string name="welcome">welcome</string>
+</resources>
